@@ -1,6 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    /*background-color: rgb(186, 251, 253);*/
+}
 .container{
+    position: inherit;
     text-align: center;
-    margin-top:23px
+    margin-top:23px;
+    background-color: rgb(186, 251, 253);
+}
 }
 
 table{
@@ -11,7 +19,7 @@ input{
     border-radius: 21px;
     border: 5px solid #244624;
     font-size:34px;
-    height: 70px;
+    height: 60px;
     width: 456px;
 }
 
@@ -37,3 +45,24 @@ h1{
     font-size: 35px;
     font-family: 'Courier New', Courier, monospace;
 }
+.foot{
+    background-color: black;
+    width: 100vw;
+    height: 30px;
+    color: blanchedalmond;
+    text-align: center;
+    margin-top: 5.5vh;
+    font-size: 20px;
+    
+    
+}
+p{
+    margin-bottom: 50px;
+    block-size: auto;
+
+}
+body{
+    display: contents;
+    margin: 0px;
+}
+    
